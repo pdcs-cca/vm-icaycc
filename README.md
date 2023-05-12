@@ -8,7 +8,7 @@ Creación de MV para cursos en el instituto
 ~~~bash
 apt install vim git build-essential ca-certificates coreutils \
 curl environment-modules gfortran git gpg lsb-release python3 \
-python3-distutils python3-venv unzip zip
+python3-distutils python3-venv unzip zip flex bison
 ~~~
 
 ## (root) Ajustes al formato del historial
