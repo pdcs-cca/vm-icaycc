@@ -34,5 +34,33 @@ source $SPACK_ROOT/share/spack/setup-env.sh
 spack compiler find 
 spack compilers
 ~~~
+## WRF Chem
+Ver nota sobre modificación del arcihvo package.py para la instalación de WRF Chem
+
+La instalación de WPS tendrá como dependencia la instalación de WRF, en esre caso condicionamos la instalación de wps a wrf con la variante chem
+~~~bash
+spack -dv install  wps ^wrf+chem
+~~~
+## Nginx
+
+## Mambaforge
+
+### Jupyter
+
+### R 
+
+## Panoply 
+
+## ncview
+
+## NCO 
+https://nco.sourceforge.net/
+
+
+## CDO 
+
+## Apptainer
+
+
 
 
