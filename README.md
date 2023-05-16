@@ -25,6 +25,7 @@ shopt -s cmdhist
 
 ## (usuario01) Instalación y configuración de spack
 
+https://spack.io/
 ~~~bash
 export SPACK_ROOT=$HOME/spack
 echo "export SPACK_ROOT=$SPACK_ROOT" >> $HOME/.bashrc
@@ -43,6 +44,11 @@ spack -dv install  wps ^wrf+chem
 ~~~
 ## Nginx
 
+## NoVNC
+https://github.com/novnc/noVNC
+https://github.com/novnc/websockify/
+
+
 ## Mambaforge
 
 ### Jupyter
@@ -58,6 +64,8 @@ https://nco.sourceforge.net/
 
 
 ## CDO 
+https://code.mpimet.mpg.de/projects/cdo
+
 
 ## Apptainer
 
