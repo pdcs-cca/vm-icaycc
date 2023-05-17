@@ -50,6 +50,7 @@ https://github.com/novnc/websockify/
 
 
 ## Mambaforge
+[mambaforge](mambaforge.md)
 
 ### Jupyter
 
