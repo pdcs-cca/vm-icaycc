@@ -43,22 +43,33 @@ La instalación de WPS tendrá como dependencia la instalación de WRF, en esre 
 spack -dv install  wps ^wrf+chem
 ~~~
 ## Nginx
+https://nginx.org/en/
 
 ## NoVNC
-https://github.com/novnc/noVNC
-https://github.com/novnc/websockify/
+* https://github.com/novnc/noVNC
+* https://github.com/novnc/websockify/
 
+## Tiger VNC
+https://tigervnc.org/
 
 ## Mambaforge
 [mambaforge](mambaforge.md)
 
-### Jupyter
+## Jupyter
+https://github.com/jupyterlab/jupyterlab
 
-### R 
+## R 
+https://posit.co/download/rstudio-desktop/
+https://posit.co/download/rstudio-server/
 
 ## Panoply 
+https://www.giss.nasa.gov/tools/panoply/
 
 ## ncview
+https://cirrus.ucsd.edu/ncview/
+
+## Vapor
+https://www.vapor.ucar.edu/
 
 ## NCO 
 https://nco.sourceforge.net/
@@ -69,7 +80,7 @@ https://code.mpimet.mpg.de/projects/cdo
 
 
 ## Apptainer
-
+https://apptainer.org/
 
 
 
